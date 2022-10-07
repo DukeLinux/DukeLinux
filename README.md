@@ -1,0 +1,5 @@
+- 👋 Hi, from @DukeLinux
+- 👀 It's going to be quite a while still, check back in a couple months or so
+- 🌱 I am so far a one man band, and working in a local git repository right now.
+- 📫 I dont have a web server set up nor external hosting, but maybe soon ill set up a gemini capsule with 
+-    updates, check the gemini url for dukelinux.{org,com,net,xyz} (probably .xyz)
